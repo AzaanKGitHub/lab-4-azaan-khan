@@ -25,6 +25,7 @@
         console.log(cityElement);
         console.log(provinceElement);
 
+        // Task 2
         let isFormValid = true;
 
         // validating name 
